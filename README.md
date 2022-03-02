@@ -4,7 +4,7 @@
 
 ```mermaid
 flowchart BT
-  Axinom   -- 2021-.... --> today((Today))
-  Tallinn University of Technology   -- 2018-2021  --> Axinom
-  Airties Wireless Networks     -- 2016-2018  --> Tallinn University of Technology  
+  axnm(Axinom)   -- 2021-.... --> today((Today))
+  tltch(Tallinn University of Technology)   -- 2018-2021  --> axnm(Axinom)
+  airt(Airties Wireless Networks)     -- 2016-2018  --> tltch(Tallinn University of Technology)  
 ``
